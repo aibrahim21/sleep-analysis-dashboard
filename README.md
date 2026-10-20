@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that explores how sleep, stress, and lifestyle relate to each other across 374 people, 11 occupations, and 3 BMI categories.
 
-![Dashboard overview](screenshots/dashboard_overview.png)
+
 
 ## Project Goal
 
